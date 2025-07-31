@@ -5,7 +5,7 @@
     --cor-de-fundo: #58008b;
     --fundo-senha: #740391;
     --fundo-texto: #8900be;
-    --borda: #8e4cb4;
+    --borda: #be32da;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -59,10 +59,10 @@ body {
     margin: 0 auto;
 }
 
-.parametro {
+.parametro {eloiza.gabrielly.ferreira@escola.pr.gov.br
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
-    margin-top: 32px;
+    margin-top: 32px;eloiza.gabrielly.ferreira@escola.pr.gov.br
     padding: 24px;
 }
 
@@ -81,7 +81,7 @@ body {
     justify-content: center;
 }
 
-.parametro-senha {
+.parametro-senha {eloiza.gabrielly.ferreira@escola.pr.gov.br
     width: 50%;
     margin: 0 auto;
 }
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #7058f7;
+    background-color: #f6f4ff;
 }
 
 .media {
-    background-color: #f570df;
+    background-color: #4a32d1;
     width: 50%;
 }
 
 .forte {
-    background-color: #ad7eeb;
+    background-color: #1900fd;
     width: 100%;
 }
 
